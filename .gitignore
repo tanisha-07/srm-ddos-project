@@ -1,0 +1,42 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+*.lock
+*.dbmdl
+*.jfm
+.vs
+*.v2
+CSTL.LDEP/CSTL.LDEP/.vs/CSTL.LDEP.Doctor/DesignTimeBuild/.dtbcache.v2
+CSTL.LDEP/CSTL.LDEP/SQL/CSTL.LDEP.SQL.Appointment/CSTL.LDEP.SQL.Appointment.jfm
+CSTL.LDEP/CSTL.LDEP/SQL/CSTL.LDEP.SQL.Appointment/CSTL.LDEP.SQL.Appointment.jfm
+CSTL.LDEP/CSTL.LDEP/.vs/CSTL.LDEP.Doctor/DesignTimeBuild/.dtbcache.v2
+*.TMP
+CSTL.LDEP/CSTL.LDEP/CSTL.LDEP.DAL/Identities/Queries/PatientDemographicQuery.cs~RF9a72c1.TMP
